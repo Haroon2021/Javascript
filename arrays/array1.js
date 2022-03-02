@@ -7,7 +7,6 @@ const addToBatch = (array,number) => {
     };
 };
 
-
 console.log(addToBatch([1], 3));
 console.log(addToBatch([1, 2, 3], 4)); 
 console.log(addToBatch([], 8));
