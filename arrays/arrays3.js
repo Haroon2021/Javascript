@@ -1,10 +1,10 @@
-// const numbers = [1, 2, 3];
+const numbers = [1, 2, 3];
 
-// const squaredNumbers = numbers.map(num => {
-//   return num * num;
-// });
+const squaredNumbers = numbers.map(num => {
+  return num * num;
+});
 
-// console.log(squaredNumbers);
+console.log(squaredNumbers);
 
 // squaredNumbers value is [1, 4, 9]
 
